@@ -200,4 +200,7 @@ body {
   }
 }
 
-
+.footer {
+  color: rgb(2, 88, 32);
+  background-color: #d3e0db;
+}
